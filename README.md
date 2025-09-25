@@ -1,1 +1,1 @@
-# AILearning
+# 个人学习AI相关知识使用
